@@ -1,2 +1,0 @@
-#!/bin/bash
-head /etc/passwdhead -3 iacta | tail -1
